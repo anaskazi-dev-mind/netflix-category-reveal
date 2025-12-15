@@ -47,7 +47,7 @@ This demonstrates how AI can be used to improve content recommendation systems b
 
 ### 1. The Cluster Map (Interactive)
 *Each dot is a movie. Colors represent the AI-discovered categories.*
-![Cluster Map](https://github.com/anaskazi-dev-mind/netflix-category-reveal/blob/main/cluster_plot.png?raw=true)
+![Cluster Map](https://github.com/anaskazi-dev-mind/netflix-category-reveal/blob/main/cluster_map.png?raw=true)
 
 ### 2. The Elbow Curve (Optimization)
 *Mathematical proof of the optimal number of clusters.*
